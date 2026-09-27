@@ -1,4 +1,4 @@
-# Card & TW ＆ Game 品牌入口
+# 台灣卡牌 品牌入口
 
 公開網址：<https://howard118008y-commits.github.io/>
 
